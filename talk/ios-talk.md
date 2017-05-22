@@ -1,22 +1,24 @@
 # [fit] Getting Started	  
 # [fit] With _**iOS**_
 
---- 
+---
 
 # __*Bori Oludemi*__
-### iOS Developer & General Technologist
+### iOS Developer & "General Technologist"
 
---- 
+---
 
 ![right 40%](Rhodesia.png)
-### BAD BORI JOKES
+#### Born and bred in Nigeria
+#### Love the real football
 
---- 
+
+---
 
 # __*Austin Lamon*__
 ### iOS Framework Engineer
 
---- 
+---
 
 ## I write code, it lives here
 
@@ -61,7 +63,7 @@
 - Online Tutorial
 - Deconstruct an app
 
---- 
+---
 
 ## Let's start with an overview of _**Swift**_
 
@@ -73,11 +75,11 @@
 
 ---
 
-## Design Patterns 
-## & 
+## Design Patterns
+## &
 ## App Structure
 
---- 
+---
 
 ## [fit] _**MVC**_
 - _Model:_ encapsulate the data specific to an app
@@ -103,9 +105,9 @@
 ---
 
 ### Plan
-- Xcode New Project :flushed: 
+- Xcode New Project :flushed:
 - Basic App Structure
-- Animations... because :information_desk_person: 
+- Animations... because :information_desk_person:
 - Environment Setup / Deconstruct
 
 ---
