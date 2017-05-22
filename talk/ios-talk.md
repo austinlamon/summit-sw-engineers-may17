@@ -4,12 +4,13 @@
 --- 
 
 # __*Bori Oludemi*__
-### iOS Developer & General Technologist
+### iOS Developer & "General Technologist"
 
 --- 
 
 ![right 40%](Rhodesia.png)
-### BAD BORI JOKES
+### Born and bred in Nigeria
+### Love the real football
 
 --- 
 
