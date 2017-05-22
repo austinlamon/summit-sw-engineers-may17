@@ -50,23 +50,20 @@
 
 ---
 
-# _**How do I get started?**_
+# _**But, how do I get started?**_
 
 ---
 
-# _**Barriers to Entry**_
-- Mac
-- Swift
-- Xcode
-- iOS frameworks (e.g. UIKit, Foundation, etc.)
+# _**1. Overcome Barriers to Entry**_
+- Swift, Xcode, iOS frameworks
 
----
-
-![](ryan.gif)
+# _**2. Build Anything!**_
+- Online Tutorial
+- Deconstruct an app
 
 --- 
 
-## So you have what you need. Let's get started with an overview of Swift.
+## Let's start with an overview of _**Swift**_
 
 ---
 
@@ -97,20 +94,19 @@
 - Visually lay out your app’s scenes and the user’s path
 - Scene == View == Screen
 	- Has subviews (buttons, labels, text, etc)
-- Tied to an instance of a _UIViewController_
+- Typically tied to an instance of a _UIViewController_
 
 ---
 
-### Digging Deeper
+## [fit] __*Digging Deeper*__
 
 ---
 
 ### Plan
-- Xcode?
 - Xcode New Project :flushed: 
 - Basic App Structure
 - Animations... because :information_desk_person: 
-- Give you an app to play with...
+- Environment Setup / Deconstruct
 
 ---
 
