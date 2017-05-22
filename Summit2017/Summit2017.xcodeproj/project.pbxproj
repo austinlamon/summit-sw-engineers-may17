@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		365B35581ED31E4D00FBCC3F /* DragCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365B35571ED31E4D00FBCC3F /* DragCircle.swift */; };
 		36CCADF71E22AF5B00920F7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CCADF61E22AF5B00920F7A /* AppDelegate.swift */; };
 		36CCADF91E22AF5B00920F7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CCADF81E22AF5B00920F7A /* ViewController.swift */; };
 		36CCADFC1E22AF5B00920F7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36CCADFA1E22AF5B00920F7A /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		365B35571ED31E4D00FBCC3F /* DragCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragCircle.swift; sourceTree = "<group>"; };
 		36CCADF31E22AF5B00920F7A /* Summit2017.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Summit2017.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36CCADF61E22AF5B00920F7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36CCADF81E22AF5B00920F7A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				36CCADF61E22AF5B00920F7A /* AppDelegate.swift */,
 				36CCADF81E22AF5B00920F7A /* ViewController.swift */,
+				365B35571ED31E4D00FBCC3F /* DragCircle.swift */,
 				36CCADFA1E22AF5B00920F7A /* Main.storyboard */,
 				36CCADFD1E22AF5B00920F7A /* Assets.xcassets */,
 				36CCADFF1E22AF5B00920F7A /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				36CCADF91E22AF5B00920F7A /* ViewController.swift in Sources */,
 				36CCADF71E22AF5B00920F7A /* AppDelegate.swift in Sources */,
+				365B35581ED31E4D00FBCC3F /* DragCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +304,7 @@
 				36CCAE071E22AF5B00920F7A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
