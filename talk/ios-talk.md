@@ -20,7 +20,7 @@
 
 ## I write code, it lives here
 
-![inline](flagship.jpeg)![inline](wallet.jpeg)![inline](cashtapp.jpeg)![inline](p2p.jpeg)![inline](inform.jpeg)
+![inline](flagship.jpeg)![inline](wallet.jpeg)![inline](cashtapp.jpeg)![inline](p2p.jpeg)![inline](level.png)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-# _**But, how do I get started?**_
+# **But, how do** _**I**_ **get started?**
 
 ---
 
@@ -136,7 +136,7 @@ ___
 
 ---
 
-# [fit] iOS Help?
+# [fit] Questions?
 ## [fit] _**@austin\_lamon**_
 ## [fit] _**@borikanes**_
 
